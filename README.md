@@ -17,3 +17,7 @@
 4) Pronto, agora <strong>verifique seu perfil</strong>.
 
 <img src="images/passo-4.png" alt="passo" width="500px" height="100%">
+
+### Video com os passos
+
+<video src="video/mostrar badger.mp4"></video>

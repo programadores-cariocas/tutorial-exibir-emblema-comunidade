@@ -20,4 +20,4 @@
 
 ### Video com os passos
 
-<video src="video/mostrar badger.mp4"></video>
+<img src="gif/mostrar-badger.gif" alt="video explicativo" width="100%" height="100%">

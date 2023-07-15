@@ -18,6 +18,9 @@
 
 <img src="images/passo-4.png" alt="passo" width="500px" height="100%">
 
+## Se esse tutorial foi útil a você, coloca uma ⭐!
+
+
 ### GIF com os passos
 
 <img src="gif/mostrar-badger.gif" alt="video explicativo" width="100%" height="100%">
